@@ -1,4 +1,32 @@
 .titles{
-    color: brown;
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
 }
 
+h2{
+    color:  #0000ff;
+    font-weight: bold;
+    font-size: 20px
+    
+    
+}
+
+h3{
+    color: teal;
+    font-weight: bold;
+font-size: 16px
+
+}
+
+
+p{
+    font-weight: bold;
+    color: #4D4D4D;
+}
+
+a{
+color: #8A2BE2;
+text-decoration: none;
+}
