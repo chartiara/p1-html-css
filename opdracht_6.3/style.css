@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    height: 20vh;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+ul {    
+display: flex;
+
+}
+li {
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin: auto;
+}
+.logo {
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+.login {
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
